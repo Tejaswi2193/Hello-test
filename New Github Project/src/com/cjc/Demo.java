@@ -10,4 +10,8 @@ public void sum()
 {
 	System.out.println("Hello sum");
 }
+	public void sub()
+{
+	System.out.println("Hello sub");
+}
 }
